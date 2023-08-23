@@ -1,3 +1,5 @@
+___This is an work of devbotsxyz, who's account is now removed from GitHub.  We appreciate his contribution to the community!___
+
 # Xcode Notarize
 
 This action notarizes macOS applications or plug-ins. It does this by submitting your built `.app` (or non-app bundle) to Apple's notarization service. It will poll the notarization service until it times out of receives a success response.
